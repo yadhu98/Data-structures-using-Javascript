@@ -12,3 +12,4 @@ Array.prototype.sumOfElementsArray = function () {
 arr.sumOfElementsArray();
 
 arr.reduce((sum, current) => sum + current);
+plicatesinArray;
