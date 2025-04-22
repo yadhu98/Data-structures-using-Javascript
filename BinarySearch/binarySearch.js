@@ -23,6 +23,6 @@ Array.prototype.binarySearch = function (target) {
   return -1;
 };
 
-let arr = [1, 2, 3, 4, 5];
+let arr = [1, 1, 2, 3, 4, 5];
 
-console.log(arr.binarySearch(5));
+console.log(arr.binarySearch(1));
